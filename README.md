@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
