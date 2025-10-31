@@ -13,7 +13,7 @@ class Solution {
 public:
     bool find(TreeNode* root,int k,unordered_set<int>&seen){
         if(root==NULL){
-            return NULL;
+            return false;
         }
        
         int complement=k-root->val;
