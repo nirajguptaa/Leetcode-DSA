@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0207-course-schedule](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0547-number-of-provinces) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0207-course-schedule](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
@@ -124,5 +126,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
