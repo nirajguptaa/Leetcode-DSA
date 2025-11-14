@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 ## Simulation
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Linked List
 |  |
