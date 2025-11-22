@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Linked List
@@ -113,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
