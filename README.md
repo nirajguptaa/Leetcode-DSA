@@ -181,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
