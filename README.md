@@ -184,5 +184,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0196-delete-duplicate-emails) |
 | [1667-fix-names-in-a-table](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
