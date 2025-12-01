@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Math
 |  |
@@ -181,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Greedy
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Database
 |  |
 | ------- |
