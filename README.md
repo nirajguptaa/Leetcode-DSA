@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0196-delete-duplicate-emails) |
+| [1517-find-users-with-valid-e-mails](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1667-fix-names-in-a-table) |
 ## Geometry
 |  |
