@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Linked List
 |  |
