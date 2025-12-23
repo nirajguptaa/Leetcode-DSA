@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Math
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3433-count-mentions-per-user) |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
