@@ -1,11 +1,10 @@
 class Solution {
 public:
     int maxTwoEvents(vector<vector<int>>& events) {
-        sort(events.begin(), events.end(),
-             [](auto &a, auto &b) {
-                 return a[1] < b[1];
-             });
 
+        sort(events.begin(),events.end(),[](auto &a,auto &b){
+            return a[1]<b[1];
+        });
         vector<pair<int,int>>bestEnd;
         bestEnd.push_back({0,0});
         int ans=0;
