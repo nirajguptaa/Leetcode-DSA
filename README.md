@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0200-number-of-islands) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0066-plus-one) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1925-count-square-sum-triples) |
