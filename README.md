@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
