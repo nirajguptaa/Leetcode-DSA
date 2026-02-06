@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0887-super-egg-drop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0887-super-egg-drop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0887-super-egg-drop) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1390-four-divisors) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0887-super-egg-drop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
