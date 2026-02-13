@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3714-longest-balanced-substring-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
