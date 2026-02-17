@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 ## Counting Sort
