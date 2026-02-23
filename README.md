@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -464,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
