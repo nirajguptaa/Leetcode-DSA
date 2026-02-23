@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
