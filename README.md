@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0152-maximum-product-subarray) |
