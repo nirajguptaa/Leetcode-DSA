@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [3634-minimum-removals-to-balance-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Segment Tree
 |  |
