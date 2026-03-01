@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 ## Stack
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0143-reorder-list) |
 ## Merge Sort
 |  |
 | ------- |
