@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
