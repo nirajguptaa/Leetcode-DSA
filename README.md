@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0887-super-egg-drop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0887-super-egg-drop) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
 ## Backtracking
 |  |
