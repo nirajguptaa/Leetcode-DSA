@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0799-champagne-tower) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
