@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0066-plus-one) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0200-number-of-islands) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0946-validate-stack-sequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
