@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Simulation
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
