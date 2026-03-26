@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0072-edit-distance) |
