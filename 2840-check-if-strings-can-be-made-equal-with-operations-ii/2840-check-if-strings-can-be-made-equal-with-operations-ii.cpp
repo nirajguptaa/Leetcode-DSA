@@ -1,25 +1,20 @@
 class Solution {
 public:
     bool checkStrings(string s1, string s2) {
-        string e1="",o1="",e2="",o2="";
-        for(int i=0;i<s1.size();i++){
-            if(i%2==0){
-                e1+=s1[i];
-            }else{
-                o1+=s1[i];
+        if(s1.length()!=s2.length()){
+            return false;
+        }
+        int count[256]={0};
+        for(int i=0;i<s1.length();i++){
+            int offset=(i&1)<<7;
+            count[offset+s1[i]]++;
+            count[offset+s2[i]]--;
+        }
+        for(int i=0;i<256;i++){
+            if(count[i]!=0){
+                return false;
             }
         }
-        for(int i=0;i<s2.size();i++){
-            if(i%2==0){
-                e2+=s2[i];
-            }else{
-                o2+=s2[i];
-            }
-        }
-        sort(e1.begin(),e1.end());
-        sort(o1.begin(),o1.end());
-        sort(e2.begin(),e2.end());
-        sort(o2.begin(),o2.end());
-        return e1==e2 && o1==o2;
+        return true;
     }
 };
