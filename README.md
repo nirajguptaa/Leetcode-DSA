@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Database
 |  |
 | ------- |
@@ -626,4 +628,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
