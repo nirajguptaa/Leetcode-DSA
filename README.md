@@ -654,4 +654,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
