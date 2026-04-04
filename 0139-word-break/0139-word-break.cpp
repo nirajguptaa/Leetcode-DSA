@@ -1,24 +1,23 @@
 class Solution {
 public:
-    bool f(int ind,string &s, vector<string>& wordDict,vector<int>&dp){
-        if(ind==s.size())return true;
-        if(dp[ind]!=-1){
-            return dp[ind];
-        }
-        for(auto word:wordDict){
+    bool f(string &s,vector<string>& wordDict,vector<int>&dp,int idx){
+        if(idx==s.size())return true;
+        if(dp[idx]!=-1)return dp[idx];
+        for(string word:wordDict){
             int len=word.size();
-            if(ind+len<=s.size() && s.substr(ind,len)==word){
-                if(f(ind+len,s,wordDict,dp)){
-                    return dp[ind]=true;
+            if(idx+len<=s.size() && s.substr(idx,len)==word ){
+                
+                if(f(s,wordDict,dp,idx+len)){
+                    return dp[idx]=1;
                 }
             }
+
         }
-        return dp[ind]=false;
+        return dp[idx]=0;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
-        int m=s.size();
-        int n=wordDict.size();
-        vector<int>dp(m,-1);
-        return f(0,s,wordDict,dp);
+        int len=s.size();
+        vector<int>dp(len,-1);
+        return f(s,wordDict,dp,0);
     }
 };
