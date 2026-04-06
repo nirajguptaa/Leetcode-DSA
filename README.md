@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
