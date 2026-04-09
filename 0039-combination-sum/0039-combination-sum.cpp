@@ -9,10 +9,11 @@ public:
         if(idx>=candidates.size() || sum>target){
             return ;
         }
-        curr.push_back(candidates[idx]);
-        f(sum+candidates[idx],idx,curr,ans,candidates,target);
-        curr.pop_back();
-
+        if(candidates[idx]<=target){
+            curr.push_back(candidates[idx]);
+            f(sum+candidates[idx],idx,curr,ans,candidates,target);
+            curr.pop_back();
+        }
         f(sum,idx+1,curr,ans,candidates,target);
         
 
