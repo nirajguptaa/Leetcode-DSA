@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3488-closest-equal-element-queries](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3488-closest-equal-element-queries) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Stack
 |  |
 | ------- |
