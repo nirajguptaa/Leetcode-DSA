@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
