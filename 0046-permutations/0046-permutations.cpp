@@ -6,10 +6,10 @@ public:
             ans.push_back(nums);
             return ;
         }
-        for(int start=i;i<nums.size();i++){
+        for(int start=i;start<nums.size();start++){
             swap(nums[i],nums[start]);
            
-            f(start+1,nums,ans);
+            f(i+1,nums,ans);
             swap(nums[i],nums[start]);
         }
     }
