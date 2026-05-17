@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0322-coin-change) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Segment Tree
 |  |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Rolling Hash
@@ -857,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0146-lru-cache) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
