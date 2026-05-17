@@ -2,9 +2,9 @@ class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
         int n=heights.size();
+        vector<int>left(n);
+        vector<int>right(n);
         stack<int>st;
-        vector<int>left(n),right(n);
-        //nearest smaller to left
         for(int i=0;i<n;i++){
             while(!st.empty() && heights[st.top()]>=heights[i]){
                 st.pop();
@@ -19,8 +19,6 @@ public:
         while(!st.empty()){
             st.pop();
         }
-
-        //near smaller to right
         for(int i=n-1;i>=0;i--){
             while(!st.empty() && heights[st.top()]>=heights[i]){
                 st.pop();
@@ -34,9 +32,9 @@ public:
         }
         int ans=0;
         for(int i=0;i<n;i++){
-            int width=right[i]-left[i]-1;
-            ans=max(ans,width*heights[i]);
+            int dist=right[i]-left[i]-1;
+            ans=max(ans,dist*heights[i]);
         }
         return ans;
-    }
+    }    
 };
