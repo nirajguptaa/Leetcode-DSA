@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0060-permutation-sequence) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0067-add-binary) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0049-group-anagrams) |
