@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0520-detect-capital) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
