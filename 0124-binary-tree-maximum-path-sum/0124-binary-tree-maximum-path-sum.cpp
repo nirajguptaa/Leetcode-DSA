@@ -18,6 +18,9 @@ public:
 
         sum=max(sum,root->val+left+right);
         return root->val+max(left,right);
+
+        //Returned value means:
+// "What maximum path can I extend to my parent?"
     }
     int maxPathSum(TreeNode* root) {
 
