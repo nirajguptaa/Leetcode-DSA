@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
