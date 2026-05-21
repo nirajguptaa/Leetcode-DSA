@@ -1,29 +1,28 @@
 class Solution {
 public:
-    void dfs(int row,int col ,vector<vector<int>>& image,int initialcol,int color,vector<vector<int>>&ans,int drow[],int dcol[]){
-
-        ans[row][col]=color;
+    void dfs(vector<vector<int>>& image, int sr, int sc, int initialCol,int color,vector<vector<int>>&ans){
+        ans[sr][sc]=color;
+        int drow[4]={-1,0,1,0};
+        int dcol[4]={0,1,0,-1};
         int n=image.size();
         int m=image[0].size();
         for(int i=0;i<4;i++){
-            int nrow=row+drow[i];
-            int ncol=col+dcol[i];
-            if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && image[nrow][ncol]==initialcol && ans[nrow][ncol]!=color ){
-                dfs(nrow,ncol,image,initialcol,color,ans,drow,dcol);
+            int nrow=sr+drow[i];
+            int ncol=sc+dcol[i];
+            if(nrow>=0 && ncol>=0 && nrow<n && ncol<m && image[nrow][ncol]==initialCol && ans[nrow][ncol]!=color){
+                dfs(image,nrow,ncol,initialCol,color,ans);
             }
         }
 
     }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        
         vector<vector<int>>ans=image;
-        int initialcol=image[sr][sc];
+        int initialCol=image[sr][sc];
         if(image[sr][sc]==color){
-            return ans;
+            return image;
         }
-        int drow[4]={-1,0,1,0};
-        int dcol[4]={0,1,0,-1};
-        dfs(sr,sc,image,initialcol,color,ans,drow,dcol);
+        
+        dfs(image,sr,sc,initialCol,color,ans);
         return ans;
     }
 };
