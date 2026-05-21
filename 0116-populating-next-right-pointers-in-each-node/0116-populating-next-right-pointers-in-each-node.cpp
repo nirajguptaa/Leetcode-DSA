@@ -18,25 +18,30 @@ public:
 
 class Solution {
 public:
-    void f(Node *root){
-        if(root==NULL || root->left==NULL){
-            return ;
-        }
-        root->left->next=root->right;
-        if(root->next){
-            
-            root->right->next=root->next->left;
-
-        }
-        f(root->left);
-        f(root->right);
-
-
-    }
     Node* connect(Node* root) {
-        if(root==NULL)return root;
-        f(root);
+        if(root==NULL)return NULL;
+        queue<Node*>q;
+        q.push(root);
+        while(!q.empty()){
+            Node *prev=NULL;
+            int size=q.size();
+
+            for(int i=0;i<size;i++){
+                Node *node=q.front();
+                if(prev!=NULL){
+                    prev->next=node;
+                }
+                prev=node;
+                q.pop();
+                if(node->left){
+                    q.push(node->left);
+                }
+                if(node->right){
+                    q.push(node->right);
+                }
+            }
+            prev->next=NULL;
+        }
         return root;
-        
     }
 };
