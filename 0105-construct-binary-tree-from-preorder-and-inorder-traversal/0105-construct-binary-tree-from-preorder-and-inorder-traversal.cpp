@@ -11,22 +11,23 @@
  */
 class Solution {
 public:
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        unordered_map<int,int>mp;
-        for(int i=0;i<preorder.size();i++){
-            mp[inorder[i]]=i;
-        }
-        int n=preorder.size()-1;
-        TreeNode *root=build(preorder,0,n,inorder,0,n,mp);   
+    TreeNode *build(vector<int>&preorder,int pS,int pE,vector<int>&inorder,int iS,int iE,unordered_map<int,int>&mp){
+        if(pS>pE || iS>iE)return NULL;
+        TreeNode *root=new TreeNode(preorder[pS]);
+        int idx=mp[root->val];
+        int numsLeft=idx-iS;
+        root->left=build(preorder,pS+1,pS+numsLeft,inorder,iS,iS+numsLeft,mp);
+        root->right=build(preorder,pS+numsLeft+1,pE,inorder,iS+numsLeft+1,iE,mp);
         return root;
     }
-    TreeNode *build(vector<int>& preorder,int pS,int pE ,vector<int>& inorder,int iS,int iE,unordered_map<int,int>&mp){
-        if(pS>pE || iS>iE)return NULL;
-        TreeNode *node=new TreeNode(preorder[pS]);
-        int inRoot=mp[node->val];
-        int numsLeft=inRoot-iS;
-        node->left=build(preorder,pS+1,pS+numsLeft,inorder,iS,iS+numsLeft,mp);
-        node->right=build(preorder,pS+numsLeft+1,pE,inorder,iS+numsLeft+1,iE,mp);
-        return node;
+    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
+        unordered_map<int,int>mp;
+        int n=inorder.size();
+        for(int i=0;i<n;i++){
+            mp[inorder[i]]=i;
+        }
+        TreeNode* root=build(preorder,0,n-1,inorder,0,n-1,mp);
+        return root;
+        
     }
 };
