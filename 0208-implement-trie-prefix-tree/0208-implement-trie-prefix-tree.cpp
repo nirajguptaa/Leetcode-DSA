@@ -7,16 +7,16 @@ struct Node{
     void put(char ch,Node *node){
         links[ch-'a']=node;
     }
-    void setEnd(){
-        flag=true;
-    }
     bool isEnd(){
         return flag;
+    }
+    void setEnd(){
+        flag=true;
     }
     bool containsKey(char ch){
         return links[ch-'a']!=NULL;
     }
-        
+
 };
 class Trie {
 public:
@@ -35,6 +35,7 @@ public:
         }
         node->setEnd();
     }
+    
     bool search(string word) {
         Node *node=root;
         for(int i=0;i<word.size();i++){
