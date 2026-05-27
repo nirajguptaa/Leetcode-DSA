@@ -11,22 +11,20 @@
  */
 class Solution {
 public:
-    bool find(TreeNode* root,int k,unordered_set<int>&seen){
-        if(root==NULL){
-            return false;
-        }
-       
-        int complement=k-root->val;
-        if(seen.count(complement)){
+    bool findTar(TreeNode* root, int k,unordered_set<int>&mp){
+        if(root==NULL)return false;
+        int curr=root->val;
+        int remain=k-curr;
+        if(mp.find(remain)!=mp.end()){
             return true;
         }
-        seen.insert(root->val);
-        return find(root->left,k,seen)|| find(root->right,k,seen);
-        
-        
+        mp.insert(curr);
+        return findTar(root->left,k,mp)||findTar(root->right,k,mp);
     }
     bool findTarget(TreeNode* root, int k) {
-        unordered_set<int>seen;
-        return find(root,k,seen);
+        unordered_set<int>mp;
+        return findTar(root,k,mp);
+        
     }
+
 };
