@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
