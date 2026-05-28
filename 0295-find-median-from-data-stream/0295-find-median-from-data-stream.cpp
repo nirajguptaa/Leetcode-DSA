@@ -5,7 +5,8 @@ public:
     MedianFinder() {
         
     }
-    
+    //maxheap - smaller half of numbers
+    //minHeap- larger half of numbers
     void addNum(int num) {
         if(maxHeap.size()==0 || maxHeap.top()>num){
             maxHeap.push(num);
