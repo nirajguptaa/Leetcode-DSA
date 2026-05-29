@@ -1,35 +1,29 @@
 class Solution {
 public:
-    vector<int>dp;
-    vector<vector<int>>jobs;
-    int n;
-    int f(int ind){
-        if(ind==n)return 0;
-        if(dp[ind]!=-1)return dp[ind];
-        int skip=f(ind+1);
-        int lo=ind+1,h=n-1,nextInd=n;
-        while(lo<=h){
-            int mid=(lo+h)/2;
-            if(jobs[mid][0]>=jobs[ind][1]){
-                nextInd=mid;
-                h=mid-1;
-            }else{
-                lo=mid+1;
-            }
-        }
-        int take=jobs[ind][2]+f(nextInd);
-        return dp[ind]=max(skip,take);
+    int f(int idx,vector<vector<int>>& jobs,vector<int>&dp){
+        int n=jobs.size();
+        if(idx>=n)return 0;
+        if(dp[idx]!=-1)return dp[idx];
+        int next=lower_bound(jobs.begin(),jobs.end(),jobs[idx][1],[](const vector<int>&job,int endTime){
+            return job[0]<endTime;
+        })-jobs.begin();
+        
+        int take=jobs[idx][2]+f(next,jobs,dp);
+        int notake=f(idx+1,jobs,dp);
+        return dp[idx]=max(take,notake);
     }
     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
-        n=startTime.size();
-        jobs.resize(n);
+        int n=startTime.size();
+        vector<vector<int>>jobs;
         for(int i=0;i<n;i++){
-            jobs[i]={startTime[i],endTime[i],profit[i]};
+            jobs.push_back({startTime[i],endTime[i],profit[i]});
         }
         sort(jobs.begin(),jobs.end());
-        dp.assign(n,-1);
-        return f(0);
-        
+        vector<int>dp(n+1,-1);
+        return f(0,jobs,dp);
     }
 };
-//f(i) = maximum profit you can get starting from job index i to the end
+
+//The comparator tells lower_bound to compare a job’s start time with the current job’s end time.
+// It keeps moving right while start < endTime and stops at the first job where start >= endTime, 
+//which is the next non-overlapping job.
