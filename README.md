@@ -787,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0196-delete-duplicate-emails) |
+| [0584-find-customer-referee](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0585-investments-in-2016) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1484-group-sold-products-by-the-date) |
