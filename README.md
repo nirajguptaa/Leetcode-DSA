@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0455-assign-cookies) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0401-binary-watch) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0868-binary-gap) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
