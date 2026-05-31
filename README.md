@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Hash Table
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
 |  |
 | ------- |
