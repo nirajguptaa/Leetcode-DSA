@@ -18,7 +18,7 @@ public:
     }
     void insert(int num){
         Node *node=root;
-        for(int i=31;i>=0;i--){
+        for(int i=31;i>=0;i--){//32*n
             int bit=(num>>i) & 1;
             if(!(node->containsKey(bit))){
                 node->set(bit,new Node());
@@ -29,7 +29,7 @@ public:
     int getMax(int num){
         Node *node=root;
         int maxVal=0;
-        for(int i=31;i>=0;i--){
+        for(int i=31;i>=0;i--){//time = 32 *n 
             int bit=(num>>i) & 1;
             if(node->containsKey(1-bit)){
                 maxVal=maxVal|(1<<i);
@@ -52,3 +52,5 @@ public:
         return maxVal;
     }
 };
+//total = 32*n+32*n=n
+//space - 32 nodes for 1 ele so for n ele= n*32=n
