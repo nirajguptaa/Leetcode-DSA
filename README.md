@@ -797,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0585-investments-in-2016) |
+| [0620-not-boring-movies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
