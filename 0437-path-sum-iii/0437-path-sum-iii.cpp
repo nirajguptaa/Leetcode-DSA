@@ -11,18 +11,21 @@
  */
 class Solution {
 public:
-    int find(TreeNode *root,long long  targetSum){
-        if(root==NULL)return 0;
-        int count=0;
-        if(root->val==targetSum){
-            count++;
-        }
-        count+=find(root->left,targetSum-root->val);
-        count+=find(root->right,targetSum-root->val);
-        return count;
+    unordered_map<long long,int>mp;
+    int count=0;
+    void dfs(TreeNode *root,int targetSum,long long currSum){
+        if(root==NULL)return;
+        currSum+=root->val;
+        count+=mp[currSum-targetSum];
+        mp[currSum]++;
+        dfs(root->left,targetSum,currSum);
+        dfs(root->right,targetSum,currSum);
+        mp[currSum]--;
+        
     }
     int pathSum(TreeNode* root, int targetSum) {
-        if(root==NULL)return 0;
-        return find(root,targetSum)+pathSum(root->left,targetSum)+pathSum(root->right,targetSum);
+        mp[0]=1;
+        dfs(root,targetSum,0);
+        return count;
     }
 };
