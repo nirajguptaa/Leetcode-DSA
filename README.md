@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0585-investments-in-2016) |
 | [0620-not-boring-movies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1211-queries-quality-and-percentage) |
