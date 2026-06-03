@@ -806,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0585-investments-in-2016) |
+| [0596-classes-with-at-least-5-students](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1075-project-employees-i) |
