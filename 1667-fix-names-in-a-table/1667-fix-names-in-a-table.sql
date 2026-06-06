@@ -1,8 +1,8 @@
 # Write your MySQL query statement below
-SELECT user_id,
+Select user_id,
 CONCAT(
-    UPPER(LEFT(name,1)),
-    LOWER(SUBSTRING(name,2))
-) as name
-FROM Users
-ORDER BY user_id ASC;
+    upper(substring(name,1,1)),
+    lower(substring(name,2))
+)as name
+from Users
+order by user_id;
