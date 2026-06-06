@@ -1,4 +1,4 @@
 # Write your MySQL query statement below
-SELECT * from Users
-where mail REGEXP  '^[a-zA-Z][a-zA-Z0-9._-]*@leetcode\\.com$' 
-COLLATE utf8mb4_bin;
+select user_id ,name ,mail 
+from Users
+where REGEXP_LIKE(mail, '^[A-Za-z][A-Za-z0-9_.-]*@leetcode\\.com$','c');
