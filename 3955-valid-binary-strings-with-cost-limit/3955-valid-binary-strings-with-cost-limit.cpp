@@ -1,35 +1,26 @@
 class Solution {
 public:
-    bool valid(string bin,int k){
-        
-        int len=bin.size();
-        bool cond1=true;
-        int cost=0;
-        for(int i=1;i<len;i++){
-            if(bin[i]=='1' && bin[i-1]=='1'){
-                cond1=false;
-            }
-              
+    void dfs(int pos,int n,int k,int cost,string &curr,vector<string>&ans){
+        if(cost>k){
+            return ;
         }
-        for(int i=0;i<len;i++){
-            if(bin[i]=='1'){
-                cost+=i;
-            }
+        if(pos==n){
+            ans.push_back(curr);
+            return ;
         }
-        
-        return cond1 && cost<=k;
+        curr.push_back('0');
+        dfs(pos+1,n,k,cost,curr,ans);
+        curr.pop_back();
+        if(pos==0 || curr.back()!='1'){
+            curr.push_back('1');
+            dfs(pos+1,n,k,cost+pos,curr,ans);
+            curr.pop_back();
+        }
     }
-
     vector<string> generateValidStrings(int n, int k) {
         vector<string>ans;
-        int poss=1<<n;
-        for(int i=0;i<poss;i++){
-            string bin=bitset<12>(i).to_string();
-            bin=bin.substr(12-n);
-            if(valid(bin,k)){
-                ans.push_back(bin);
-            }
-        }
+        string curr;
+        dfs(0,n,k,0,curr,ans);
         return ans;
     }
 };
