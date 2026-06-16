@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3838-weighted-word-mapping](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3433-count-mentions-per-user) |
+| [3612-process-string-with-special-operations-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
