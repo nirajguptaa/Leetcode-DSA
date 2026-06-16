@@ -4,15 +4,15 @@ public:
         int n=s.size();
         int maxlen=0;
         int start=0;
-        auto expand=[&](int left,int right){
-            while(left>=0 && right<n && s[left]==s[right]){
-                left--;
-                right++;
+        auto expand=[&](int l,int r){
+            while(l>=0 && r<n && s[l]==s[r]){
+                l--;
+                r++;
             }
-            int currlen=right-left-1;
+            int currlen=r-l-1;
             if(currlen>maxlen){
                 maxlen=currlen;
-                start=left+1;
+                start=l+1;
             }
         };
         for(int i=0;i<n;i++){
@@ -20,5 +20,5 @@ public:
             expand(i,i+1);
         }
         return s.substr(start,maxlen);
-    }   
+    }
 };
