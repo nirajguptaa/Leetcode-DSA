@@ -1,20 +1,24 @@
 class Solution {
 public:
-    int f(int ind,int prev,vector<int>&nums,vector<vector<int>>&dp){
-        if(ind==nums.size())return 0;
-        if(dp[ind][prev+1]!=-1){
-            return dp[ind][prev+1];
+    int f(int prev,int curr,vector<int>&nums,vector<vector<int>>&dp){
+        int n=nums.size();
+        if(curr==n)return 0;
+        if(dp[prev+1][curr]!=-1){
+            return dp[prev+1][curr];
         }
-        int notake=f(ind+1,prev,nums,dp);
+        int notake=f(prev,curr+1,nums,dp);
         int take=0;
-        if(prev==-1 || nums[ind]>nums[prev]){
-            take=1+f(ind+1,ind,nums,dp);
+        if(prev==-1 || nums[curr]>nums[prev]){
+            take=1+f(curr,curr+1,nums,dp);
         }
-        return dp[ind][prev+1]=max(take,notake);
+        return dp[prev+1][curr]=max(notake,take);
     }
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>>dp(n,vector<int>(n+1,-1));
-        return f(0,-1,nums,dp);
+        vector<vector<int>>dp(n+1,vector<int>(n,-1));
+        return f(-1,0,nums,dp);
+        
+
+
     }
 };
