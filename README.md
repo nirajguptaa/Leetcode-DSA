@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0437-path-sum-iii) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -971,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
 ## Sliding Window
