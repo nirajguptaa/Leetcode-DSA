@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
