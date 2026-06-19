@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1980-find-unique-binary-string) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2625-increment-submatrices-by-one) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2075-decode-the-slanted-ciphertext) |
