@@ -6,14 +6,9 @@ public:
         if(original.size() != m * n)
 
             return {};
-        int x=0,y=0;
+        
         for(int i=0;i<len;i++){
-            mat[x][y]=original[i];
-            y++;
-            if(y==n){
-                x++;
-                y=0;
-            }
+            mat[i/n][i%n]=original[i];
         }
         return mat;
     }
