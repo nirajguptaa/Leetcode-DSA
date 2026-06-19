@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0636-exclusive-time-of-functions) |
+| [0643-maximum-average-subarray-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Segment Tree
 |  |
