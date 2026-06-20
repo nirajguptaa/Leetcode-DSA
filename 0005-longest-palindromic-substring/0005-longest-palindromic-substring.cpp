@@ -2,8 +2,8 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         int n=s.size();
-        int maxlen=0;
         int start=0;
+        int maxlen=0;
         auto expand=[&](int l,int r){
             while(l>=0 && r<n && s[l]==s[r]){
                 l--;
