@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
+| [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
+| [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -957,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -967,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3713-longest-balanced-substring-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
