@@ -7,7 +7,7 @@ public:
         while(l<h){
             int width=h-l;
             int minn=min(height[l],height[h]);
-            water=max(water,minn*width);
+            water=max(water,width*minn);
             if(height[l]<height[h]){
                 l++;
             }else{
@@ -15,6 +15,5 @@ public:
             }
         }
         return water;
-        
     }
 };
