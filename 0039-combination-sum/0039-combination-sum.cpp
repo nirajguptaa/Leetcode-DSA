@@ -9,11 +9,10 @@ public:
         if(currSum >target || idx==n){
             return ;
         }
-        if(idx<n){
-            curr.push_back(candidates[idx]);
-            f(currSum+candidates[idx],idx,curr,ans,candidates,target);
-            curr.pop_back();
-        }
+        
+        curr.push_back(candidates[idx]);
+        f(currSum+candidates[idx],idx,curr,ans,candidates,target);
+        curr.pop_back();
         
         f(currSum,idx+1,curr,ans,candidates,target);
     }
