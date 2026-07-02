@@ -1,23 +1,25 @@
 class Solution {
 public:
-    bool f(string &s,vector<string>& wordDict,vector<int>&dp,int idx){
-        if(idx==s.size())return true;
-        if(dp[idx]!=-1)return dp[idx];
-        for(string word:wordDict){
-            int len=word.size();
-            if(idx+len<=s.size() && s.substr(idx,len)==word ){
-                
-                if(f(s,wordDict,dp,idx+len)){
-                    return dp[idx]=1;
+    int canform(int idx,string s,vector<string>&wordDict,vector<int>&dp){
+        int n=s.size();
+        if(idx==n)return true;
+        if(dp[idx]!=-1){
+            return dp[idx];
+        }
+        for(auto w:wordDict){
+            int len=w.size();
+            if(idx+len<=n && s.substr(idx,len)==w){
+                if(canform(idx+len,s,wordDict,dp)){
+                    return dp[idx]=true;
                 }
             }
-
         }
-        return dp[idx]=0;
+        return dp[idx]=false;
     }
     bool wordBreak(string s, vector<string>& wordDict) {
-        int len=s.size();
-        vector<int>dp(len,-1);
-        return f(s,wordDict,dp,0);
+        int n=s.size();
+        vector<int>dp(n,-1);
+        return canform(0,s,wordDict,dp);
+
     }
 };
