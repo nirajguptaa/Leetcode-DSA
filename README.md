@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-process-string-with-special-operations-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3714-longest-balanced-substring-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
