@@ -13,19 +13,19 @@ class Solution {
 public:
     unordered_map<long long,int>mp;
     int count=0;
-    void dfs(TreeNode *root,int targetSum,long long currSum){
-        if(root==NULL)return;
+    void f(long long currSum,TreeNode*root,int target){
+        if(root==NULL)return ;
         currSum+=root->val;
-        count+=mp[currSum-targetSum];
+        count+=mp[currSum-target];
         mp[currSum]++;
-        dfs(root->left,targetSum,currSum);
-        dfs(root->right,targetSum,currSum);
+        f(currSum,root->left,target);
+        f(currSum,root->right,target);
         mp[currSum]--;
         
     }
     int pathSum(TreeNode* root, int targetSum) {
         mp[0]=1;
-        dfs(root,targetSum,0);
+        f(0,root,targetSum);
         return count;
     }
 };
