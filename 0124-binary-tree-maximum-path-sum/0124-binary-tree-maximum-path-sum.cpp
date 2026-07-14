@@ -11,21 +11,19 @@
  */
 class Solution {
 public:
-    int calSum(TreeNode *root,int &sum){
-        if(root==NULL)return 0;
-        int left=max(0,calSum(root->left,sum));
-        int right=max(0,calSum(root->right,sum));
-
-        sum=max(sum,root->val+left+right);
+    
+    int calSum(int &currSum,TreeNode *root){
+        if(root==NULL){
+            return 0;
+        }
+        int left=max(0,calSum(currSum,root->left));
+        int right=max(0,calSum(currSum,root->right));
+        currSum=max(currSum,left+right+root->val);
         return root->val+max(left,right);
-
-        //Returned value means:
-// "What maximum path can I extend to my parent?"
     }
     int maxPathSum(TreeNode* root) {
-
         int sum=INT_MIN;
-        calSum(root,sum);
+        calSum(sum,root);
         return sum;
     }
 };
