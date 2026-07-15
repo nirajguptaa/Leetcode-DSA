@@ -4,6 +4,7 @@ public:
         int n=prices.size();
         vector<int>dp(n+2,0);
         for(int buy=n-1;buy>=0;buy--){
+            dp[buy] = dp[buy + 1];
             for(int sell=buy+1;sell<n;sell++){
                 dp[buy]=max(dp[buy],dp[sell+2]+(prices[sell]-prices[buy]));
             }
