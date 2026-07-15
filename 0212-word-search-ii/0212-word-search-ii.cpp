@@ -1,6 +1,5 @@
 struct Node{
     Node *links[26];
-    bool flag=false;
     bool containsKey(char ch){
         return links[ch-'a']!=NULL;
     }
@@ -10,7 +9,8 @@ struct Node{
     Node *get(char ch){
         return links[ch-'a'];
     }
-    void setEnd(){
+    bool flag=false;
+    void setFlag(){
         flag=true;
     }
     bool isEnd(){
@@ -23,17 +23,17 @@ public:
     Solution(){
         root=new Node();
     }
-    void addWord(string &word){
+    void insert(string word){
         Node *node=root;
-        for(int i=0;i<word.size();i++){
-            if(!node->containsKey(word[i])){
-                node->put(word[i],new Node());
+        for(char ch:word){
+            if(!node->containsKey(ch)){
+                node->put(ch,new Node());
             }
-            node=node->get(word[i]);
+            node=node->get(ch);
         }
-        node->setEnd();
+        node->setFlag();
     }
-    void dfs(int row,int col,vector<vector<char>>& board,string path,Node* node, vector<string>&ans){
+    void dfs(int row,int col,vector<vector<char>>& board,string &path,Node *node,vector<string>&ans){
         char ch=board[row][col];
         if(ch=='#' || !node->containsKey(ch)){
             return ;
@@ -48,21 +48,19 @@ public:
         int drow[4]={1,-1,0,0};
         int dcol[4]={0,0,1,-1};
         for(int i=0;i<4;i++){
-            int nr=drow[i]+row;
-            int nc=dcol[i]+col;
-            if(nr>=0 && nr<board.size() && nc>=0 && nc<board[0].size() ){
+            int nr=row+drow[i];
+            int nc=col+dcol[i];
+            if(nr>=0 && nr<board.size() && nc>=0 && nc<board[0].size()){
                 dfs(nr,nc,board,path,node,ans);
             }
-
-        }
+        }   
         board[row][col]=ch;
         path.pop_back();
     }
     vector<string> findWords(vector<vector<char>>& board, vector<string>& words) {
-        for(auto &word:words){
-            addWord(word);
+        for(string word:words){
+            insert(word);
         }
-        
         vector<string>ans;
         string path="";
         for(int i=0;i<board.size();i++){
@@ -71,5 +69,6 @@ public:
             }
         }
         return ans;
+
     }
 };
