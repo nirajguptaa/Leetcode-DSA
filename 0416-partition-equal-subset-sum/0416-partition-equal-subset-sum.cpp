@@ -1,31 +1,31 @@
 class Solution {
 public:
-    bool f(vector<int>&nums,int sum,int ind,vector<vector<int>>&dp){
-        if(sum==0){
+    bool f(int i,int curr,int half,vector<int>&nums,vector<vector<int>>&dp){
+
+        if(curr==half){
             return true;
         }
-        if(ind==0){
-            return sum==nums[0];
+        if(curr>half || i>=nums.size()){
+            return false;
         }
-        if(dp[ind][sum]!=-1){
-            return dp[ind][sum];
+        if(dp[i][curr]!=-1){
+            return dp[i][curr];
         }
-        int nottake=f(nums,sum,ind-1,dp);
-        bool take=false;
-        if(sum>=nums[ind]){
-             take=f(nums,sum-nums[ind],ind-1,dp);
-        }
-        return dp[ind][sum]=take||nottake;
-        
-            
+
+        return dp[i][curr]=f(i+1,curr+nums[i],half,nums,dp)||f(i+1,curr,half,nums,dp);
+
     }
     bool canPartition(vector<int>& nums) {
-        int sum=accumulate(nums.begin(),nums.end(),0);
+        int sum=0;
+        for(int num:nums){
+            sum+=num;
+        }
         if(sum%2!=0){
             return false;
         }
+        int half=sum/2;
         int n=nums.size();
-        vector<vector<int>>dp(n,vector<int>(sum/2+1,-1));
-        return f(nums,sum/2,n-1,dp);
+        vector<vector<int>>dp(n,vector<int>(half+1,-1));
+        return f(0,0,half,nums,dp);
     }
 };
