@@ -1,35 +1,36 @@
 class Solution {
 public:
-    bool safe(char num,int row,int col,vector<vector<char>>& board){
-        for(int j=0;j<9;j++){
-            if(board[j][col]==num){
-                return false;
-            }
-        }
+    bool safe(int row,int col,char val,vector<vector<char>>& board){
         for(int i=0;i<9;i++){
-            if(board[row][i]==num){
+            if(board[i][col]==val){
                 return false;
             }
-                
         }
-        int startRow=row-row%3;
-        int startCol=col-col%3;
-        for(int i=startRow;i<startRow+3;i++){
-            for(int j=startCol;j<startCol+3;j++){
-                if(board[i][j]==num){
+        for(int j=0;j<9;j++){
+            if(board[row][j]==val){
+                return false;
+            }
+        }
+        int sR=row-row%3;
+        int sC=col-col%3;
+        for(int i=sR;i<sR+3;i++){
+            for(int j=sC;j<sC+3;j++){
+                if(board[i][j]==val){
                     return false;
                 }
             }
         }
         return true;
+
     }
     bool solve(vector<vector<char>>& board){
+
         for(int i=0;i<9;i++){
             for(int j=0;j<9;j++){
                 if(board[i][j]=='.'){
-                    for(char num='1';num<='9';num++){
-                        if(safe(num,i,j,board)){
-                            board[i][j]=num;
+                    for(char k='1';k<='9';k++){
+                        if(safe(i,j,k,board)){
+                            board[i][j]=k;
                             if(solve(board)){
                                 return true;
                             }
