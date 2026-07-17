@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0799-champagne-tower) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Quickselect
 |  |
@@ -1220,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Ordered Set
 |  |
 | ------- |
