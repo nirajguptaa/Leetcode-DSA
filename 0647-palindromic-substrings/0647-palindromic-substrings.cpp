@@ -1,19 +1,26 @@
 class Solution {
 public:
-    int expand(string &s,int l,int r){
-        int count=0;
-        while(l>=0 && r<s.size() && s[l]==s[r]){
-            count+=1;
-            l--;r++;
-    
+    bool isPalin(string s){
+        int l=0,r=s.size()-1;
+        while(l<r){
+            if(s[l]!=s[r]){
+                return false;
+            }
+            l++;
+            r--;
         }
-        return count;
+        return true;
     }
     int countSubstrings(string s) {
         int count=0;
         for(int i=0;i<s.size();i++){
-            count+=expand(s,i,i);
-            count+=expand(s,i,i+1);
+            string temp="";
+            for(int j=i;j<s.size();j++){
+                temp+=s[j];
+                if(isPalin(temp)){
+                    count++;
+                }
+            }
         }
         return count;
     }
