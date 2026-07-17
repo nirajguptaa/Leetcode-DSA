@@ -9,7 +9,7 @@
  */
 class Codec {
 public:
-    void preorder(TreeNode*root,string &tree){
+    void preorder(TreeNode *root,string &tree){
         if(root==NULL){
             tree+="#,";
             return ;
@@ -20,21 +20,21 @@ public:
     }
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-        string tree;
+        string tree="";
         preorder(root,tree);
         return tree;
     }
     TreeNode *depreorder(queue<string>&q){
-        if(q.empty())return nullptr;
+        if(q.empty())return NULL;
         string val=q.front();
         q.pop();
-        if(val=="#"){return NULL;}
-        TreeNode *root=new TreeNode(stoi(val));
-        root->left=depreorder(q);
-        root->right=depreorder(q);
-        return root;
+        if(val=="#")return NULL;
+        TreeNode *node=new TreeNode(stoi(val));
+        node->left=depreorder(q);
+        node->right=depreorder(q);
+        return node;
+        
     }
-
     // Decodes your encoded data to tree.
     TreeNode* deserialize(string data) {
         queue<string>q;
@@ -44,7 +44,6 @@ public:
             q.push(token);
         }
         return depreorder(q);
-
     }
 };
 
