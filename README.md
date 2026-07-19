@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0165-compare-version-numbers) |
@@ -925,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0229-majority-element-ii) |
@@ -1196,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 ## Graph Theory
 |  |
