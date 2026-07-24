@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0518-coin-change-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0493-reverse-pairs) |
+| [0654-maximum-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0636-exclusive-time-of-functions) |
+| [0654-maximum-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1116,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
