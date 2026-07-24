@@ -11,29 +11,24 @@
  */
 class Solution {
 public:
-    TreeNode *buildTree(int start,int end,vector<int>&nums){
-        if(start<0 || start>end || end>nums.size()){
-            return NULL;
-        }
-        int maxi=-1;
-        for(int i=start;i<=end;i++){
-            maxi=max(maxi,nums[i]);
-        }
-        int idx=-1;
-        for(int i=start;i<=end;i++){
-            if(maxi==nums[i]){
-                idx=i;
-            }
-        }
-        if(idx==-1){
-            return NULL;
-        }
-        TreeNode *node=new TreeNode(maxi);
-        node->left=buildTree(start,idx-1,nums);
-        node->right=buildTree(idx+1,end,nums);
-        return node;
-    }
     TreeNode* constructMaximumBinaryTree(vector<int>& nums) {
-        return buildTree(0,nums.size()-1,nums);
+        stack<TreeNode*>st;
+        for(int num:nums){
+            TreeNode *curr=new TreeNode(num);
+            while(!st.empty() && st.top()->val<num){
+                curr->left=st.top();
+                st.pop();
+            }
+            if(!st.empty()){
+                st.top()->right=curr;
+            }
+            st.push(curr);
+
+        }
+        while(st.size()>1){
+            st.pop();
+
+        }
+        return st.top();
     }
 };
