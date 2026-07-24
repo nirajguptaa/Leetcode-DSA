@@ -20,7 +20,7 @@ public:
             maxi=max(maxi,nums[i]);
         }
         int idx=-1;
-        for(int i=0;i<nums.size();i++){
+        for(int i=start;i<=end;i++){
             if(maxi==nums[i]){
                 idx=i;
             }
