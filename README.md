@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0801-is-graph-bipartite) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
 | [0801-is-graph-bipartite](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0801-is-graph-bipartite) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
