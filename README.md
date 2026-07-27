@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0895-maximum-frequency-stack](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
