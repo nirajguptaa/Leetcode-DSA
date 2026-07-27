@@ -1,9 +1,8 @@
 class Solution {
 public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
-        int dist = INT_MIN;
-        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>,
-                       greater<tuple<int, int, int>>>pq;
+        
+        priority_queue<tuple<int, int, int>, vector<tuple<int, int, int>>,greater<tuple<int, int, int>>>pq;
 
         // val listnum eleIdx
         int currMax=INT_MIN;
