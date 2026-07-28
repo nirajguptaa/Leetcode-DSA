@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0784-letter-case-permutation) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
 | [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
 | [0895-maximum-frequency-stack](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0895-maximum-frequency-stack) |
 | [2069-walking-robot-simulation-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## Iterator
@@ -1165,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
 |  |
