@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0472-concatenated-words](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0567-permutation-in-string) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+| [0472-concatenated-words](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0572-subtree-of-another-tree) |
@@ -919,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0472-concatenated-words](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0518-coin-change-ii) |
@@ -990,6 +994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0455-assign-cookies) |
+| [0472-concatenated-words](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0472-concatenated-words) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -1170,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0472-concatenated-words) |
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
