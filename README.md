@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2097-valid-arrangement-of-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2097-valid-arrangement-of-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1287,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0310-minimum-height-trees) |
 | [0785-is-graph-bipartite](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0785-is-graph-bipartite) |
+| [2097-valid-arrangement-of-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## String Matching
@@ -1344,4 +1347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
