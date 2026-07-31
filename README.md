@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0327-count-of-range-sum) |
+| [0335-self-crossing](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0335-self-crossing](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0371-sum-of-two-integers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1104,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0973-k-closest-points-to-origin](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3623-count-number-of-trapezoids-i) |
