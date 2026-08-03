@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1190,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -1277,6 +1281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 ## Merge Sort
 |  |
 | ------- |
