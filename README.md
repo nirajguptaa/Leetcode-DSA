@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2402-meeting-rooms-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2402-meeting-rooms-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2751-robot-collisions](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3474-lexicographically-smallest-generated-string) |
