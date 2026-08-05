@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1303,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2685-count-the-number-of-complete-components](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
