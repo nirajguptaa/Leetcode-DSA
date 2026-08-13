@@ -1,20 +1,17 @@
 class Solution {
-public:
-    int merge(vector<int>& nums,int l,int m,int h){
-
-        int count=0;
-        int j=m+1;
+public: 
+    int merge(vector<int>&nums,int l,int m,int h){
+        int count=0,j=m+1;
         for(int i=l;i<=m;i++){
             while(j<=h && nums[i]>2LL*nums[j]){
                 j++;
             }
             count+=j-(m+1);
         }
-        int i=l;j=m+1;
         vector<int>temp;
+        int i=l;j=m+1;
         while(i<=m && j<=h){
-            if(nums[i]<=nums[j]){
-                
+            if(nums[i]<nums[j]){
                 temp.push_back(nums[i]);
                 i++;
             }else{
@@ -23,17 +20,19 @@ public:
             }
         }
         while(i<=m){
-            temp.push_back(nums[i++]);
+            temp.push_back(nums[i]);
+            i++;
         }
         while(j<=h){
-            temp.push_back(nums[j++]);
+            temp.push_back(nums[j]);
+            j++;
         }
         for(int k=l;k<=h;k++){
             nums[k]=temp[k-l];
         }
         return count;
     }
-    int countReverse(vector<int>& nums,int l,int h){
+    int countReverse(vector<int>&nums,int l,int h){
         int count=0;
         if(l<h){
             int m=l+(h-l)/2;
