@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0472-concatenated-words](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
+| [0477-total-hamming-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0493-reverse-pairs) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0371-sum-of-two-integers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0396-rotate-function) |
+| [0477-total-hamming-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0788-rotated-digits) |
 | [0887-super-egg-drop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0887-super-egg-drop) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0477-total-hamming-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0477-total-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0784-letter-case-permutation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0784-letter-case-permutation) |
