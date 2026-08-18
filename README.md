@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0520-detect-capital) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
