@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2751-robot-collisions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3433-count-mentions-per-user) |
 | [3612-process-string-with-special-operations-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
