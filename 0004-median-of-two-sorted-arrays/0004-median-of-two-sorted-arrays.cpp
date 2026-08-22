@@ -1,12 +1,13 @@
 class Solution {
 public:
+
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        if(nums1.size()>nums2.size()){
+        int n1=nums1.size();
+        int n2=nums2.size();
+        if(n1>n2){
             return findMedianSortedArrays(nums2,nums1);
         }
-        int n1=nums1.size(),n2=nums2.size();
-        int l=0;
-        int h=n1;
+        int l=0,h=n1;
         int n=n1+n2+1;
         while(l<=h){
             int cut1=l+(h-l)/2;
@@ -21,11 +22,12 @@ public:
                 }else{
                     return max(left1,left2);
                 }
-            }else  if(left1>right2){
+            }else if(left1>right2){
                 h=cut1-1;
             }else{
                 l=cut1+1;
             }
+
         }
         return 0.0;
     }
