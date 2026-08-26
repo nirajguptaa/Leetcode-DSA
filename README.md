@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0825-friends-of-appropriate-ages](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0887-super-egg-drop) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0696-count-binary-substrings) |
+| [0825-friends-of-appropriate-ages](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0844-backspace-string-compare](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0761-special-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0825-friends-of-appropriate-ages) |
 | [0973-k-closest-points-to-origin](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1200-minimum-absolute-difference) |
