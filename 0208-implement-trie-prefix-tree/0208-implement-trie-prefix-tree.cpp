@@ -1,22 +1,21 @@
 struct Node{
     Node *links[26];
-    bool flag=false;
-    Node *get(char ch){
-        return links[ch-'a'];
+    bool containsKey(char ch){
+        return links[ch-'a']!=NULL;
     }
     void put(char ch,Node *node){
         links[ch-'a']=node;
     }
-    bool isEnd(){
-        return flag;
+    Node *get(char ch){
+        return links[ch-'a'];
     }
+    bool flag=false;
     void setEnd(){
         flag=true;
     }
-    bool containsKey(char ch){
-        return links[ch-'a']!=NULL;
+    bool isEnd(){
+        return flag;
     }
-
 };
 class Trie {
 public:
@@ -27,6 +26,7 @@ public:
     
     void insert(string word) {
         Node *node=root;
+        
         for(int i=0;i<word.size();i++){
             if(!node->containsKey(word[i])){
                 node->put(word[i],new Node());
@@ -48,7 +48,7 @@ public:
     }
     
     bool startsWith(string prefix) {
-        Node *node=root;
+         Node *node=root;
         for(int i=0;i<prefix.size();i++){
             if(!node->containsKey(prefix[i])){
                 return false;
