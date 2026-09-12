@@ -1,7 +1,7 @@
 class LRUCache {
 public:
-    int cap;
     list<pair<int,int>>dll;
+    int cap;
     unordered_map<int,list<pair<int,int>>::iterator>mp;
     LRUCache(int capacity) {
         cap=capacity;
@@ -17,6 +17,7 @@ public:
         dll.push_front({key,val});
         mp[key]=dll.begin();
         return val;
+        
     }
     
     void put(int key, int value) {
@@ -26,9 +27,8 @@ public:
         dll.push_front({key,value});
         mp[key]=dll.begin();
         if(dll.size()>cap){
-            auto last=dll.back();
-            int keyTodel=last.first;
-            mp.erase(keyTodel);
+            int keyToDel=dll.back().first;
+            mp.erase(keyToDel);
             dll.pop_back();
         }
     }
