@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
 | [0825-friends-of-appropriate-ages](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0825-friends-of-appropriate-ages) |
+| [0835-image-overlap](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
