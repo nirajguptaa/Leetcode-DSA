@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-salary-categories">2057. Count Salary Categories</a></h2><h3>Medium</h3><hr><p>Table: <code>Accounts</code></p>
+<h2><a href="https://leetcode.com/problems/count-salary-categories/description/?envType=problem-list-v2&envId=de3735us">2057. Count Salary Categories</a></h2><h3>Medium</h3><hr><p>Table: <code>Accounts</code></p>
 
 <pre>
 +-------------+------+
