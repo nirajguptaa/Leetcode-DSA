@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Math
 |  |
 | ------- |
