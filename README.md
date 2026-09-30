@@ -1523,4 +1523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
