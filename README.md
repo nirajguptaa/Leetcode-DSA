@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0844-backspace-string-compare](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -943,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0895-maximum-frequency-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1134,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0767-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -1535,6 +1538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Longest Common Subsequence
 |  |
