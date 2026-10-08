@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0377-combination-sum-iv](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0335-self-crossing](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0335-self-crossing) |
 | [0371-sum-of-two-integers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0745-prefix-and-suffix-search](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0745-prefix-and-suffix-search) |
@@ -1550,4 +1554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1143-longest-common-subsequence) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
