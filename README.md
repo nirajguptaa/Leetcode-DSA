@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1739-building-boxes](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1739-building-boxes) |
 | [1927-sum-game](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1927-sum-game) |
@@ -1549,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Longest Common Subsequence
 |  |
