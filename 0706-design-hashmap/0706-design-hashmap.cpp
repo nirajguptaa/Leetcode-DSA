@@ -1,21 +1,44 @@
 class MyHashMap {
 public:
-    vector<int>arr;
+    int size=1000;
+    vector<list<pair<int,int>>>buckets;
+    int hash(int key){
+        return key%1000;
+    }
     MyHashMap() {
-        arr.resize(10e6+1,-1);
+        buckets.resize(size);
     }
     
     void put(int key, int value) {
-        arr[key]=value;
+        int idx=hash(key);
+        for(auto &it:buckets[idx]){
+            if(it.first==key){
+                it.second=value;
+                return ;
+            }
+        }
+        buckets[idx].push_back({key,value});
     }
     
     int get(int key) {
-        return arr[key];
-        
+        int idx=hash(key);
+        for(auto &it:buckets[idx]){
+            if(it.first==key){
+                return it.second;
+            }
+        }
+        return -1;
     }
     
     void remove(int key) {
-        arr[key]=-1;
+        int idx=hash(key);
+        auto &bucket=buckets[idx];
+        for(auto it=bucket.begin();it!=bucket.end();it++){
+            if(it->first==key){
+                bucket.erase(it);
+                return ;
+            }
+        }
     }
 };
 
