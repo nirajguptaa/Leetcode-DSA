@@ -8,16 +8,17 @@ public:
     
     void push(int value) {
         st.push(value);
-        if(minSt.empty() || minSt.top()>=value ){
+        if(minSt.empty() || value<=minSt.top()){
             minSt.push(value);
+            
         }
     }
     
     void pop() {
         if(st.empty()){
-            return ;
+            return;
         }
-        if(st.top() == minSt.top()){
+        if(minSt.top()==st.top()){
             minSt.pop();
         }
         st.pop();
@@ -31,7 +32,9 @@ public:
     }
     
     int getMin() {
-        if(minSt.empty())return -1;
+        if(minSt.empty()){
+            return -1;
+        }
         return minSt.top();
     }
 };
