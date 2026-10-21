@@ -2,30 +2,29 @@ class RandomizedSet {
 public:
     vector<int>nums;
     unordered_map<int,int>pos;
-
     RandomizedSet() {
-    }
         
+    }
     
     bool insert(int val) {
-        if(pos.count(val)){
+        if(pos.find(val)!=pos.end()){
             return false;
         }
         int size=nums.size();
-        pos[val]=size;
         nums.push_back(val);
+        
+        pos[val]=size;
         return true;
     }
     
     bool remove(int val) {
-        if(!pos.count(val)){
+        if(pos.find(val)==pos.end()){
             return false;
         }
-        int last=nums.back();//ele
         int idx=pos[val];
-
-        nums[idx]=last;
-        pos[last]=idx;
+        int last_ele=nums.back();//ele
+        nums[idx]=last_ele;
+        pos[last_ele]=idx;
         nums.pop_back();
         pos.erase(val);
         return true;
@@ -33,7 +32,9 @@ public:
     }
     
     int getRandom() {
-        int idx=rand() % nums.size();
+
+        int size=nums.size();
+        int idx=rand() % size;
         return nums[idx];
     }
 };
