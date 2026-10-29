@@ -2,7 +2,7 @@ class Solution {
 public:
     int canForm(int idx,int n,string s,vector<int>&dp,vector<string>& wordDict){
         if(idx==n){
-            return true;
+            return 1;//true
         }
         if(dp[idx]!=-1){
             return dp[idx];
@@ -11,11 +11,11 @@ public:
             int len=str.size();
             if(idx+len<=n && str==s.substr(idx,len)){
                 if(canForm(idx+len,n,s,dp,wordDict)){
-                    return dp[idx]=true;
+                    return dp[idx]=1;//true
                 }
             }
         }
-        return dp[idx]=false;
+        return dp[idx]=0;//false
 
     }
     bool wordBreak(string s, vector<string>& wordDict) {
