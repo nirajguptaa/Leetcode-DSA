@@ -1594,4 +1594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nirajguptaa/Leetcode-DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
